@@ -35,4 +35,3 @@ def product_fib(prod):
         return [a, b, True]
     else:
         return [a, b, False]
-  
